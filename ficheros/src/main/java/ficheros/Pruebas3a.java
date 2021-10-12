@@ -1,4 +1,11 @@
 package ficheros;
+
+/**
+ * Pruebas varias leer escribir buscar Fichero
+ * @author frank
+ *
+ */
+
 public class Pruebas3a {
 
 	public static void main(String[] args) {

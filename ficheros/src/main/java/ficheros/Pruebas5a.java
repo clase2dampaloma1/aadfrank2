@@ -1,5 +1,11 @@
 package ficheros;
 
+/**
+ * Pruebas buscar registro en fichero
+ * @author frank
+ *
+ */
+
 public class Pruebas5a {
 
 	public static void main(String[] args) {

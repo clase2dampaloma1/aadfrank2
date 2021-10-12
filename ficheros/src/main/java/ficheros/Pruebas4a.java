@@ -1,5 +1,11 @@
 package ficheros;
 
+/**
+ * Pruebas búsqueda patrón en fichero
+ * @author frank
+ *
+ */
+
 public class Pruebas4a {
 
 	public static void main(String[] args) {
